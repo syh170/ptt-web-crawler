@@ -5,6 +5,7 @@
 ### [Scrapy 版本](https://github.com/afunTW/ptt-web-crawler) by afunTW
 
 特色
+* 
 * 爽爽灀
 * 支援單篇及多篇文章抓取
 * 過濾資料內空白、空行及特殊字元
